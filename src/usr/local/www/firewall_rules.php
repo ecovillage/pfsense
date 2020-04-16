@@ -357,7 +357,7 @@ $columns_in_table = 13;
 					<tr>
 						<th><input type="checkbox" id="selectAll" name="selectAll" /></th>
 						<th><!-- status icons --></th>
-						<th><?=gettext("States")?></th>
+						<th><?=gettext("States/Bytes")?></th>
 						<th><?=gettext("Protocol")?></th>
 						<th><?=gettext("Source")?></th>
 						<th><?=gettext("Port")?></th>
